@@ -1,6 +1,5 @@
 package com.langford.maven.WeatherApp;
 
-
 public class App {
 	
     public static void main(String[] args) {
